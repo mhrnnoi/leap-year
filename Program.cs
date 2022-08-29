@@ -26,7 +26,7 @@ namespace leap_year
                 }
                 return "leap year";
             }
-            return "leap year";
+            return "not leap year";
         }
     }
 }
